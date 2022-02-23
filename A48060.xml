@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Holiness the Pope of Rome, to His Highness the Prince of Orange containing several proposals and overtures of agreement betwixt the Church of England, and the Church of Rome / translated out of Latin, for the benefit of all true Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48060</idno>
+            <idno type="STC">Wing L1474</idno>
+            <idno type="STC">ESTC R9260</idno>
+            <idno type="EEBO-CITATION">13111100</idno>
+            <idno type="OCLC">ocm 13111100</idno>
+            <idno type="VID">97631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Holiness the Pope of Rome, to His Highness the Prince of Orange containing several proposals and overtures of agreement betwixt the Church of England, and the Church of Rome / translated out of Latin, for the benefit of all true Protestants.</title>
+                  <author>Innocent XI, Pope, 1611-1689.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Reprinted at Edinburgh :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A pretended letter." -- Editor's note.</note>
+                  <note>"The Church of England's answer to the preceding letter": p. 7.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England.</term>
+               <term>Catholic Church.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97631:1" rendition="simple:additions"/>
+            <p>A LETTER From His HOLINESS the POPE of ROME, To His HIGHNESS the PRINCE OF ORANGE: CONTAINING Several Propoſals, and Overtures of Agreement, betwixt the Church of <hi>England,</hi> and the Church of <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of Latin, for the benefit of all true Proteſtants.</hi>
+            </p>
+            <p>Re-printed at <hi>Edinburgh,</hi> Anno 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97631:2"/>
+            <pb n="3" facs="tcp:97631:2"/>
+            <head>A <hi>LETTER</hi> from his <hi>Holineſs</hi> the <hi>POPE</hi> of <hi>Rome,</hi> to his
+<hi>Highneſs</hi> the <hi>PRINCE</hi> of <hi>ORANGE.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Great</hi> PRINCE,</salute>
+            </opener>
+            <p>ALthough the <hi>Semi-Circle</hi> of Your <hi>Highneſs</hi> be (at preſent) Elivate above the full <hi>Orb</hi> of my <hi>Holineſs,</hi> I Conjure you by <hi>Bell, Book,</hi> and
+<hi>Candle,</hi> ſeriouſly to conſider your Proceedings againſt me, and my Catholick Church; which (as a Lilly among Thorns) I lately Planted in <hi>England</hi> and <hi>Scotland;</hi> and you (to the great grief of all the Mem<g ref="char:EOLhyphen"/>bers of my Sacred Conclave, and Zealous Favourites of my Spiri<g ref="char:EOLhyphen"/>tual Court) have almoſt rooted up. Call to mind and tremble at my Great Power, Prudence, and Supremacy; and that I am <hi>God up<g ref="char:EOLhyphen"/>on Earth,</hi> Seventy Seven times greater than the greateſt Emperor in the World. Remember what I have done to mighty Monarchs, Kings, and Puiſſant Princes, whoſe Glory and high Looks I have laid in the Duſt, till they have willingly ſubmitted their ſtubborn Necks to my Iron Yoak, and humbly bowed their Heads to ſalute my holy Feet. Did not my Predeceſſor Pope <hi>Gregory</hi> the 7th. (who Poiſoned Nine Popes, in Thirteen Years ſpace, to make way for himſelf to the Pope<g ref="char:EOLhyphen"/>dome) for want of due Worſhip and Honour, Excommunicate and Depoſe the Emperor <hi>Henry,</hi> both from his Crown and Empire; Diſ<g ref="char:EOLhyphen"/>charge all his Subject<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their Allegiance, and give his Crown to <hi>Rodolphus</hi> Duke of <hi>Swevia?</hi> till he, with his Empreſs and young Son, cloath'd in Sack-cloath, came bare Foot, in the cold of Win<g ref="char:EOLhyphen"/>ter, and begg'd Pardon three days, without Acceſs, at his Sump<g ref="char:EOLhyphen"/>tuous Gates. Did not Pope <hi>Paſcal</hi> the 2d. ſtir up <hi>Henry</hi> the 5th. to rebel againſt his Old Father the Emperor? who by the aſſiſtance of his <hi>Holineſs</hi>) beat him from his Empire; ſo that he lived and
+<pb n="4" facs="tcp:97631:3"/> dy'd miſerable, and lay five Years above ground, without burying, at the Pope's command. Did not Pope <hi>Alexander</hi> the 3d. put his Foot upon the Emperor <hi>Frederick</hi>'s Neck, and tread upon him as he had been a Dog? Did not Pope <hi>Celeſtine</hi> the 3d. Crown the Emperor
+<hi>Henry</hi> the 6th. and his Empreſs <hi>Conſtantina</hi> with his Feet? and (throwing off the <hi>Crowns</hi> with his Toe) ſay, <hi>I have Power to make and unmake Kings and Emperors?</hi> Did not <hi>Adrian</hi> the 4th. fall out with the Emperor <hi>Frederick,</hi> for holding his wrong Stirrup? and would not Crown him for three days, till he begg'd <hi>his Holineſs</hi> pardon. Did not <hi>Clement</hi> the 5th. cauſe his Hangman to take <hi>Francis Dandalus</hi> a <hi>Venetian</hi> Duke, bind him with Chains, and throw him under his Table, to gnaw Bones with his Dogs? Did not <hi>Innocent</hi> the 4th. call <hi>Henry</hi> the 3d. King of
+<hi>England,</hi> his Vaſ<g ref="char:EOLhyphen"/>ſal, Slave, and Page; whom (at pleaſure) he might Impriſon, and put to open ſhame? Did not Pope <hi>Benedict</hi> the 9th. ſend to <hi>France,</hi> the two Sons of <hi>Charlemain,</hi> with their Mother <hi>Birtha,</hi> the Widow Queen? who humbly brought them to <hi>his Holineſs</hi> to be Crown'd; where, (with the poor King of <hi>Lombardy,</hi> and his Wife and Chil<g ref="char:EOLhyphen"/>dren) they were kept in Priſon, till the day of their death; for diſ<g ref="char:EOLhyphen"/>obliging their Uncle, the Emperor <hi>Charles,</hi> the Popes ſpecial Friend, and great Favourite. The Cries of poor Widows and Orphans, I value no more than the cackling of Hens. Blood and Wounds are my daily Delight. Murthers, Battles, Treaſons, Conſpiracies, and the turning of Kingdoms up-ſide down, are to me but ordinary Recre<g ref="char:EOLhyphen"/>ations, and May-Games. With my Tail or
+<hi>Cynoſure,</hi> I drew the Stars of Heaven backwards, and throw them to the Earth. I be<g ref="char:EOLhyphen"/>witch the World with Signs and lying Wonders, and perſwade peo<g ref="char:EOLhyphen"/>ple out of their Senſes; to believe that I can Make, Worſhip, and Eat, an Immortal Deity, of ordinary Bread. How many Princes have I poyſoned in my Sacrament? which my Emiſſaries have Tranſubſtan<g ref="char:EOLhyphen"/>tiate into a Devil, rather than a God. How many Kingdoms have I ruin'd? How many Common-wealths have I overturned? How many Cities have I razed? And how many Millions of Chriſtians have I ſacrificed to my vindictive Power and Greatneſs? And dare
+<pb n="5" facs="tcp:97631:3"/> you Cope with me? Remember what I did to <hi>John</hi> King of <hi>England,</hi> whom my holy Monk
+<hi>Stephan</hi> poiſoned in <hi>Lincoln-ſhi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</hi> Come then to me in a humble manner, as to God's <hi>Deput,</hi> Chriſt's
+<hi>Vicar,</hi> and St. <hi>Peter</hi>'s <hi>Succeſsor,</hi> and reſtore all my Church-Lands, which my Anceſtors have (for ſeveral Generations) purloined from Kings and Princes, for the ſanctified Uſe of the holy Chair; and ſwear fealtly to me, as to your <hi>Supream-Head,</hi> and <hi>holy Father;</hi> and I will be reconciled to you and all <hi>Engliſh-Men.</hi> Yea, (tho' <hi>Peter</hi> King of <hi>Arragon,</hi> willingly bought his Salvation from Pope
+<hi>Innocent</hi> the 3d. at the rate of his Crown and Kingdom,) I will freely pardon you all your Sins, paſt, preſent, and to come. And for your un<g ref="char:EOLhyphen"/>ruly Rabble; (that indigeſted lump of Ignorance, and percipitan<g ref="char:EOLhyphen"/>cy) I will have compaſſion on them, and ſend them as many old uſe<g ref="char:EOLhyphen"/>leſs <hi>Merits,</hi> and <hi>Works of Supererogation,</hi> as would laden a
+<hi>Spaniſh</hi> Armado; which will ſend them (in a perpendicular line) to Hea<g ref="char:EOLhyphen"/>ven, without touching at <hi>Purgatory.</hi> And (to ingratiate my ſelf fur<g ref="char:EOLhyphen"/>ther in the Kingdom of
+<hi>England</hi>'s Favour) I will Licentiate your Ladies of pleaſure in <hi>London,</hi> and all Females in general there, to Whore, pick pockets, for a <hi>Julio</hi> or <hi>Six pence</hi> a week: which is no more than my own Order of <hi>Harlots</hi> pay at <hi>Rome,</hi> and all
+<hi>Ita<g ref="char:EOLhyphen"/>ly</hi> over. And to all Men within the Walls of <hi>London,</hi> and
+<hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> I will freely give Liberty to be as intimate with their Neighbours Wives, as ever Pope <hi>Hildebrand</hi> was with <hi>Mathilda,</hi> the Marqueſs of <hi>Eaſt</hi>'s Lady: Or Pope <hi>Alexander</hi> the 6th. was with his own Daughter <hi>Lucretia.</hi> And (in one Word) I will let the Inhabitants of the whole Iſle of <hi>Britain</hi> fulfil their Hearts deſire, in all kind of Villanies and Abominations, without ſinning. For (as <hi>Bellarm.</hi> tells you,) I can make that which is Sin, no Sin; and that which is no Sin, Sin. But if you will not ſubmit your ſelf, nor humble your <hi>Highneſs</hi> to my <hi>Holyneſs;</hi> then will I cloath my ſelf with curſing, and take the Thunderbolt of Excommunication in my mouth, with the Sword of
+<hi>Supremacy,</hi> I will cut aſunder the Cords of Unity, and with the breath of my mouth, will I diſſipate the peace of all Nati<g ref="char:EOLhyphen"/>ons. I will incenſe my <hi>Rebellious first born,</hi> His
+<hi>moſt Christian
+<pb n="6" facs="tcp:97631:4"/> Majeſty of</hi> FRANCE, to invade your Territories, burn you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cities, put your Males to the edge of the Sword, and rip up your Women with Child, without pitty or compaſſion; as he lately ſerved your <hi>Tribe</hi> in his own Kingdom: And as I once ſerved the <hi>Walden<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Albigenſes.</hi> I will privately contrive your overthrow, by my deſperate <hi>Jeſuites, Monks,</hi> and
+<hi>Friers;</hi> whom I will after Death Canonize, for Murther, Miſchief, and Conſpiracy. I will found an <hi>Order</hi> of Iriſh <hi>Cut-Throats,</hi> (men mighty for Miſchief) who will divide the Wind-pipes of all Proteſtants, and ſubſtract breath from their whole Bodies. They ſhall dig as deep as Purga<g ref="char:EOLhyphen"/>tory for the Contrivance of a new Gun powder Treaſon; and make a Covenant with Hell, for your Deſtruction. And (if I can bring my projects to a period) I will hold a Spiritual Court in <hi>Smith fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld,</hi> and decide all Controverſies with Fire and Faggot; till I levil the Na<g ref="char:EOLhyphen"/>tion with the Duſt, and make the <hi>Iſle of great Britain</hi> acknowledge me for their Superiour. Finally, I cannot but reſent your Deportment towards my <hi>Neice,</hi> your Glorious, Queen, who left <hi>England</hi> with<g ref="char:EOLhyphen"/>out bidding Farewill to her favourites; only taking along with her <hi>the Prince of Wales,</hi> whom you term <hi>her ſuppoſed Son.</hi> But it is an <hi>Hy<g ref="char:EOLhyphen"/>perbole,</hi> beyond the Conception of Humanity, that a <hi>King,</hi> pretend<g ref="char:EOLhyphen"/>ing to ſo much Reaſon, Religion and Piety, ſhould Praiſe, (or ra<g ref="char:EOLhyphen"/>ther mock) God for a Child, whilſt his Queen had lonely conceived a Pillow, and was brought to Bed of a Cuſhion, to Cheat his Subjects of their Ancient and Royal Line, and his own Poſterity of their Crowns and Kingdoms. This was the old contrivance of another <hi>Mary</hi>-Queen; but <hi>Philip</hi> was more a man than to own the Brat of Sophiſtry, and Father the Impudence of ſo villanous a Fact. But let the Pro<g ref="char:EOLhyphen"/>duction be what it will, Real or Imaginary, my Singing of <hi>Te Deum</hi> in St <hi>Mary</hi>'s Church in
+<hi>Rome,</hi> is enough both to Naturalize and Le<g ref="char:EOLhyphen"/>gitimate it Lawful <hi>Prince of Wales,</hi> and Apparent Heir to the Crowns of Three Kingdoms. I have ſent you this Letter by <hi>Guido Faux,</hi> the Younger; whoſe Brains are big of a <hi>Gun-Pouder Plot:</hi> therefore (as you love your Life and Well-being) honour him, with all and as much Reſpects as it were <hi>I my Self.</hi> Father <hi>Peter</hi> Saluteth you with
+<pb n="7" facs="tcp:97631:4"/> my whole <hi>Conſitory</hi> of <hi>Cardinals,</hi> and <hi>Clargy-men</hi> of my Sacred
+<hi>Con<g ref="char:EOLhyphen"/>clave.</hi> I deſire to be Remembred to <hi>Titus Oats,</hi> and <hi>Samuel Johnſon,</hi> If the Tide turn, I will talk with them, and reward them, according to their Fidelity. Thus expecting a ſpeedy Anſwer, before I proceed any further, in my great Deſigns I continue</p>
+            <closer>
+               <signed>Your Hurtful <hi>INNOCENT.</hi>
+               </signed>
+               <dateline>
+                  <hi>Written from my Court at</hi> Rome, Prid. Calend.
+<date>Jan. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The Church of <hi>England</hi>'s Anſwer to the preceeding Letter.</head>
+            <opener>
+               <salute>Grand Impoſtor,</salute>
+            </opener>
+            <p>VVHether you, with your Clergy, be poſſeſt with the Spirit of Error and Deluſion, and caſt in a Bed of Senſuality, to wallow in your own Filthineſs; with your Eyes darkned, and your Ears deaf<g ref="char:EOLhyphen"/>ened, we know not; but certainly there muſt be a great Myſterie in your Obſtinacy: For you ſhut your Senſes (which are the Gates of your Underſtanding) againſt the cleareſt Evidences of Truth, Scrip<g ref="char:EOLhyphen"/>ture, and Reaſon. Our learned Divines have theſe ſeveral years, con<g ref="char:EOLhyphen"/>futed your opinions of ridiculous Nonſenſe, by ſound Arguments, and undeniable Demonſtrations; till (being wearied with your con<g ref="char:EOLhyphen"/>tradictions) Grooms, Pages, and Porters began to diſcover your Nakedneſs, in your Ignorance and Superſtition; and by writing a<g ref="char:EOLhyphen"/>gainſt you to convince you of your Foolries, Fopperies, and Chi<g ref="char:EOLhyphen"/>merical Fancies. Yet for all this, are you not aſhamed of your Abo<g ref="char:EOLhyphen"/>minations and Filthineſs, Thus (ſince you ſhut your Ears againſt the word of manifaſt Truth, and the <hi>Kingdom of Heaven,</hi> againſt the whole World, denying the principles of ſure and unqueſtionable Faith) we deſire none of your Converſe; for there can be no Fellowſhip be<g ref="char:EOLhyphen"/>twixt Light and Darkneſs, nor between <hi>God and Belial:</hi> for they that
+<pb n="8" facs="tcp:97631:5"/> are wilfully filthy, will be filthy ſtill; neither can we ſend you any an<g ref="char:EOLhyphen"/>ſwer, fitter than that the <hi>Grecian</hi> Church ſent to Pope <hi>John</hi> 23. when he wrot to them to bow and ſubmit to him as to their <hi>Terreſtial God and Infalible Supream: We do aſſuredly</hi> (ſaid they) <hi>acknowledge your high Power over your Subjects, but we cannot abid your high Pride, we cannot quench your gridy Covetouſneſs: The Devil is with you, but God is with us.</hi> Thus (with the Eaſtern Churches) we muſt leave you, and let you alone: Yet with the Prophet will we wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l over you, and cry out,
+<hi>We would have Healed</hi> Babylon, <hi>But ſhe is not Healed.</hi> Remember what the Lord ſaith, <hi>Iſaiah</hi> 50 11. <hi>Behold all ye that Kindle a Fire, that compaſs your ſelves about with Sparks: Walk in the Light of your Fire, and in the Sparks that ye have kindled. This ſhall ye have of mine hand, ye ſhall ly down in Sorrow.</hi> Thus (not Fearing your Power, Curſes, nor Thunder-bolts of Excumunicati<g ref="char:EOLhyphen"/>on, nor all the Train of your Infernal Court, whilſt God is with us,) we continue ſtill ſtedfaſt in that Faith, whereof <hi>Christ Jeſus</hi> is both the Foundation and chief Corner Stone; who is able to preſerve and preſent us ſpottleſs, before the Throne of his Grace, with exceeding great joy. To whom, with the
+<hi>Father</hi> and <hi>Holy-Ghoſt,</hi> be aſcribed Glory, Honour, and Praiſe; with Dominion, Majeſty, and Power; World without end, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>Jan. 6th. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
